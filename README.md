@@ -38,13 +38,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   You can contribute by doing one of the following:
   - Starring the repository ⭐
   - Forking the repository 🍴
-      1. Fork the repository.
-      2. Create a new branch:
-         `git checkout -b feature/new-feature`
-      3. Commit changes:
-         `git commit -am 'Add new feature'`
-      4. Push to the branch:
-         `git push origin feature/new-feature`
-      5. Submit a pull request.
   - Creating an Issue ❌
   - Creating a Pull Request ✔
+
+Fork the repository.
+```bash
+Create a new branch:
+         `git checkout -b feature/new-feature`
+Commit changes:
+         `git commit -am 'Add new feature'`
+Push to the branch:
+         `git push origin feature/new-feature`
+Submit a pull request.
+```
