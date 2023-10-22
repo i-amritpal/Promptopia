@@ -42,12 +42,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   - Creating a Pull Request ✔
 
 Fork the repository.
-```bash
+
 Create a new branch:
-         `git checkout -b feature/new-feature`
-Commit changes:
-         `git commit -am 'Add new feature'`
-Push to the branch:
-         `git push origin feature/new-feature`
-Submit a pull request.
+```bash
+git checkout -b feature/new-feature
 ```
+Commit changes:
+```bash
+git commit -am 'Add new feature'
+```
+Push to the branch:
+```bash
+git push origin feature/new-feature
+```
+Submit a pull request.
+
