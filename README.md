@@ -41,19 +41,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
   - Creating an Issue ❌
   - Creating a Pull Request ✔
 
-Fork the repository.
-
-Create a new branch:
+1. Fork the repository
+2. Create a new branch:
 ```bash
 git checkout -b feature/new-feature
 ```
-Commit changes:
+3. Commit changes:
 ```bash
 git commit -am 'Add new feature'
 ```
-Push to the branch:
+4. Push to the branch:
 ```bash
 git push origin feature/new-feature
 ```
-Submit a pull request.
+5. Submit a pull request.
 
